@@ -40,21 +40,3 @@ This project focuses on clean logic, data persistence, and proper program flow r
 3. Run the program:
 
 ```bash
-python main.py
-
----
-
-### What this README does right
-- Clear purpose  
-- Explains **what you learned**, not just what it does  
-- No unnecessary emojis or hype  
-- Looks legit on GitHub  
-
-Upload this, commit it, and **do not over-edit it**.
-
-If you want, next I can:
-- rewrite it for **resume bullets**
-- help you write a **good commit message**
-- or plan **Project 2** (harder, portfolio-worthy)
-
-Your move.
